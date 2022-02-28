@@ -1,7 +1,7 @@
 {
     "self_mode": false,
-	"autobio": false,
-	"msg_connected": false,
+	"autobio": true,
+	"msg_connected": true,
 	"user_register": false,
 	"anti_delete" : false,
 	"anticall": true,
@@ -9,13 +9,13 @@
 	"auto_leave_msg": true,
 	"prefix": ".",
 	"language":"ind",
-	"ownerNumberr": "62887435047326",
-	"ownername": "ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×",
-	"botname":"Alphabot",
+	"ownerNumberr": "6288805890128",
+	"ownername": "Adalah Gwejh",
+	"botname":"Molly Bot",
 	"thumb":"thumbnail_1.jpg",
 	"thumbnail":"thumbnail_2_1.jpg",
 	"fakethumb":"thumbnail_1.jpg", 
 	"donasi":"donasi.jpg",
-	"captionpay":"Scan untuk melakukan pembayaran",
-	"fake": " 「  ALPHABOT  」\nCreated By ᴹᴿ᭄ ZeeoneOfcོ ×፝֟͜×"
+	"captionpay":"Scan Untuk Melakukan Pembayaran",
+	"fake": " 「  MOLLYBOT  」\nCreated By Skyzo"
 }
